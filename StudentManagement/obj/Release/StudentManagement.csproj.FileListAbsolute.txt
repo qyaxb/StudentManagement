@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\bin\Release\StudentManagement.exe.config
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\bin\Release\StudentManagement.exe
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\bin\Release\StudentManagement.pdb
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.Form1.resources
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.FormLogin.resources
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.Properties.Resources.resources
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.exe
+C:\Users\admin\Desktop\Code\StudentManagement\StudentManagement\obj\Release\StudentManagement.pdb
